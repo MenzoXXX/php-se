@@ -1,0 +1,1 @@
+# php-git-hugo-automaton
